@@ -20,7 +20,7 @@ Você sabe: há diversas maneiras de se programar uma interface. O intuito é en
 
 Link do psd e fontes: https://copy.com/S61PV17Bg6zSi1Ma
 
-Para enviar o link do resultado pra gente (seja do html online ou de um zip com os arquivos) envie para enzo+front@trampos.co 
+Para enviar o link do resultado pra gente (seja do html online ou de um zip com os arquivos) envie para enzo+front@trampos.co ou coloque no repositório.
 
 
 É isso! 
