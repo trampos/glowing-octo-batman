@@ -5,9 +5,7 @@ Teste trampos.co Front-End
 
 Estamos em busca de um desenvolvedor criativo FRONT-END para ajudar a gente a desenvolver melhorias no trampos.co para que as pessoas tenham a melhor experiência possível na hora de procurar um trampo.
 
-Para isso pedimos que façam um teste simples de uma funcionalidade já feita por nós. 
-
-O teste é desenvolver o widget abaixo. Ele foi criado para divulgar vagas do trampos.co em sites de parceiros de forma que se adeque às especificações de cada site - ou seja, deve ser pensado responsivo. Note que há a possibilidade de termos um scroll para mostrar mais vagas.
+Para isso pedimos que façam um teste simples de uma funcionalidade já feita por nós: desenvolver o widget abaixo. Ele foi criado para divulgar vagas do trampos.co em sites de parceiros de forma que se adeque às especificações de cada site - ou seja, deve ser pensado responsivo. Note que há a possibilidade de termos um scroll para mostrar mais vagas.
 
 Os dados devem vir da nossa API, que pode ser feita via JSON ou XML
 
@@ -17,12 +15,11 @@ http://trampos.co/api/oportunidades.xml
 
 Você sabe: há diversas maneiras de se programar uma interface. O intuito é entender como o desenvolvedor resolve o problema e otimiza o código da melhor forma possível. O desenvolvedor tem total liberdade de adaptar este layout caso queira sugerir uma melhoria.
 
-.
 
 ![Alt text](http://trampos.co/media/W1siZiIsIjIwMTQvMDMvMTcvMTVfMTJfMDZfMjIwX3dpZGdldF9CT1hfVkFHQVMuanBnIl1d/widget-BOX-VAGAS.jpg)
 
-.
 
+Para enviar o link pra gente (seja do html online ou de um zip com os arquivos) envie para trampe@trampos.co 
 
 É isso! 
 
