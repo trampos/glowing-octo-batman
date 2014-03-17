@@ -18,7 +18,7 @@ Você sabe: há diversas maneiras de se programar uma interface. O intuito é en
 
 ![Alt text](http://trampos.co/media/W1siZiIsIjIwMTQvMDMvMTcvMTVfMTJfMDZfMjIwX3dpZGdldF9CT1hfVkFHQVMuanBnIl1d/widget-BOX-VAGAS.jpg)
 
-Link do psd e fontes: https://copy.com/S61PV17Bg6zSi1Ma
+Link do psd e fontes: https://github.com/trampos/glowing-octo-batman/blob/master/widget-trampos.zip
 
 Para enviar o link do resultado pra gente (seja do html online ou de um zip com os arquivos) envie para enzo+front@trampos.co ou coloque no repositório.
 
