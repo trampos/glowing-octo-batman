@@ -1,7 +1,7 @@
 Teste trampos.co Front-End
 =========
 
-##Olá queridos e queridas! 
+##Olá, queridos e queridas! 
 
 Estamos em busca de um desenvolvedor criativo FRONT-END para ajudar a gente a desenvolver melhorias no trampos.co para que as pessoas tenham a melhor experiência possível na hora de procurar um trampo.
 
@@ -18,8 +18,10 @@ Você sabe: há diversas maneiras de se programar uma interface. O intuito é en
 
 ![Alt text](http://trampos.co/media/W1siZiIsIjIwMTQvMDMvMTcvMTVfMTJfMDZfMjIwX3dpZGdldF9CT1hfVkFHQVMuanBnIl1d/widget-BOX-VAGAS.jpg)
 
+Link do psd e fontes: https://copy.com/S61PV17Bg6zSi1Ma
 
-Para enviar o link pra gente (seja do html online ou de um zip com os arquivos) envie para trampe@trampos.co 
+Para enviar o link do resultado pra gente (seja do html online ou de um zip com os arquivos) envie para enzo+front@trampos.co 
+
 
 É isso! 
 
